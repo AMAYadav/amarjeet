@@ -3996,7 +3996,7 @@ input, select, textarea {
 /* Mains */
 
 	#mains > header {
-		padding: 12em 0 10em 0 ;
+		padding: 1em 0 10em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/dark.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/dark.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/dark.jpg");
@@ -4068,7 +4068,6 @@ input, select, textarea {
 
 
 /* Maind */
-
 
 	#maind > header {
 		padding: 12em 0 10em 0 ;
